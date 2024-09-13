@@ -1,0 +1,1 @@
+# ch-jdbc-bridge-template
